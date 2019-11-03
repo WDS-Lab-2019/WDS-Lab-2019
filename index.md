@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Watson Discovery Lab 2019
 
 You can use the [editor on GitHub](https://github.com/WDS-Lab-2019/WDS-Lab-2019.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
