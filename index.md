@@ -1,5 +1,16 @@
-## Watson Discovery Lab 2019
+![Image](./images/IBM-Watson-Logo.png)
+# Watson Discovery Lab 2019
+<table>
+<tr><td><H1>Watson Discovery Lab 2019</H1></td><td><img src="./images/watson-logo.png"></td></tr>
+</table>
+|----------------------------|--------------------------------------|
+| ##Discovery Lab 2019       |![Image](./images/watson-logo.png)    |
+|----------------------------|--------------------------------------|
 
+![Image](./images/ibm-watson-full-logo.png =1024x)
+![Image](https://342sv54cwf1w32bxz36tm0bv-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/IBM-Watson-Logo.png)
+
+ktps://i1.wp.com/againstscams.org/wp-content/uploads/2019/08/IBMWatson-e15053771035141.png?fit=530%2C280&ssl=1ht)  
 You can use the [editor on GitHub](https://github.com/WDS-Lab-2019/WDS-Lab-2019.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
